@@ -15,7 +15,6 @@ pipeline {
 		stage('Setup system') {
 			steps {
 				dir(path: "$CLR_K8S_PATH") {
-					sh './setup_system.sh'
 				}
 			}
 		}
