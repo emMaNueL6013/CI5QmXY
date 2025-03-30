@@ -22,4 +22,3 @@ To install the needed files into a packaging directory (such as how `${pkgdir}` 
 
 ```sh
 DESTDIR='{pkgdir}' just install
-```
