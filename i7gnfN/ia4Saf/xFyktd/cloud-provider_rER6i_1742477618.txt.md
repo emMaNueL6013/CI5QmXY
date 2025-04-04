@@ -2,7 +2,6 @@
 This document contains the instructions needed to build Celeste from source.
 
 If you're just trying to install Celeste, look at the [installation instructions](/README.md#installation) instead.
-
 ## Needed packages
 Celeste needs some packages installed in order to build:
 
