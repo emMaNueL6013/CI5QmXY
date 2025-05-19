@@ -44,7 +44,6 @@ pipeline {
 					sh './reset_stack.sh'
 				}
 			}
-		}
 	}
 	post {
 			sh 'uname -a'
