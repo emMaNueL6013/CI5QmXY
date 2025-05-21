@@ -33,7 +33,6 @@ pipeline {
 			steps {
 				dir(path: "$CLR_K8S_PATH") {
 					sh './create_stack.sh cni'
-					sh 'kubectl rollout status deployment/coredns -n kube-system --timeout=5m'
 					sh 'kubectl get pods -n kube-system'
 				}
 			}
