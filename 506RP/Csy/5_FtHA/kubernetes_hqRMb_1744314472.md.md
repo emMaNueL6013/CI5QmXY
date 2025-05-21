@@ -1,7 +1,6 @@
 ## How to contribute
 
 
-
 \<details>
 
 [Answer]
