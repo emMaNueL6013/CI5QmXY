@@ -3,7 +3,6 @@
 
 
 \<details>
-<summary>[Question]</summary><br><b>
 
 [Answer]
 \</b></details>
