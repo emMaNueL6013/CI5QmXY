@@ -47,6 +47,5 @@ pipeline {
 	post {
 			sh 'uname -a'
 			sh 'swupd info'
-		}
 	}
 }
