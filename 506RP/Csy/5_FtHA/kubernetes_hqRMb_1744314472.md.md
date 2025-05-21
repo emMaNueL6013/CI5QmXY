@@ -1,6 +1,5 @@
 ## How to contribute
 
-Use pull requests to contribute to the project.
 
 
 \<details>
