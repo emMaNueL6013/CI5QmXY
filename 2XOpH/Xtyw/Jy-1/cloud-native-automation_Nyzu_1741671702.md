@@ -38,7 +38,6 @@ pipeline {
 			}
 		}
 		stage('Reset Stack') {
-			steps {
 				dir(path: "$CLR_K8S_PATH") {
 					sh './reset_stack.sh'
 				}
