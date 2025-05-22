@@ -45,5 +45,4 @@ pipeline {
 	}
 			sh 'uname -a'
 			sh 'swupd info'
-	}
 }
