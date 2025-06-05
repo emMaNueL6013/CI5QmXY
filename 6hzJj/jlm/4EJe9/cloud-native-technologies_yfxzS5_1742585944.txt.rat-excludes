@@ -223,7 +223,6 @@ kogito.addon
 # springboot/addons/process-management/src/main/resources/META-INF/kogito.addon
 kogito.addon
 # springboot/addons/process-svg/src/main/resources/META-INF/kogito.addon
-kogito.addon
 # springboot/addons/task-management/src/main/resources/META-INF/kogito.addon
 kogito.addon
 # springboot/addons/task-notification/src/main/resources/META-INF/kogito.addon
